@@ -14,6 +14,12 @@ This repository is the work product in creating a design which was able to creat
 
 I have included STL for the object, as rendered from OpenSCAD, as well as the design file, and a 3MF file.
 
+
+## 3D Print Sites
+[Thingiverse](https://www.thingiverse.com/thing:5630948)
+[Printables](https://www.printables.com/model/317684)
+
+
 ## Code
 All of the code/files are contained within [GitHub - iBlinds_ChargeAdapter](https://github.com/jshessen/iBlinds_ChargeAdapter)
 
@@ -24,6 +30,7 @@ git clone https://github.com/jshessen/SpringFactory.git
 ```
 or downloading the repo as a zip file:
 [https://github.com/jshessen/iBlinds_ChargeAdapter](https://github.com/jshessen/iBlinds_ChargeAdapter) --> Code --> [Download as Zip](https://github.com/jshessen/iBlinds_ChargeAdapter/archive/refs/heads/main.zip)
+
 
 ## [Project Photos](https://github.com/jshessen/iBlinds_ChargeAdapter/tree/main/images)
 ![Production_1](https://github.com/jshessen/iBlinds_ChargeAdapter/blob/main/images/Production_1.jpg)
